@@ -1,0 +1,7 @@
+# Kafka client
+confluent-kafka>=2.3.0
+
+# Data validation and settings management
+pydantic>=2.0.0
+
+# Python version >= 3.8
